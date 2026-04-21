@@ -83,3 +83,9 @@ The system supports password-based unlocking, failure tracking, alarm triggering
 * GPIO Interfacing
 * Embedded Modular Design
 
+---
+
+## Contributors
+
+- [Shahd Ayman](https://github.com/Shahd-Ayman5)
+- [Haneen Abukhater](https://github.com/Haneenabukhater12)
